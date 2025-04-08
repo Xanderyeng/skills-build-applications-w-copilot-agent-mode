@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-4+&!@#%$^&*()_+=-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['refactored-space-guacamole-5x77xvj7jxqhpgvr-8000.app.github.dev', 'localhost']
 
 # Application definition
 
